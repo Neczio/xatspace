@@ -100,7 +100,7 @@ span{
 .jd-txt{
 	width:140px;
 	height:36px;
-	background:#212121;
+	background:#adadad;
 	border-radius:3px;
 	text-align:center;
 	line-height:36px;
@@ -212,7 +212,7 @@ span{
 	text-align:center;
 	font-size:.75rem;
 	color:#adadad;
-	background:#212121
+	background:#adadad
 }
 .jd-videoBox{
 	width:265px;
