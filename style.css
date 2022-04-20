@@ -155,7 +155,7 @@ span{
 }
 .jd-btn-nav p{
 	font-size:.8rem;
-	color:#D9D9D9
+	color:#6b6b6b
 }
 .jd-box{
 	width:110px;
@@ -169,13 +169,13 @@ span{
 .jd-box img{
 	width:82px;
 	height:82px;
-	border:solid 1px #212121;
+	border:solid 1px #6b6b6b;
 	margin:0
 }
 .jd-box span{
 	width:82px;
 	height:19px;
-	background:#212121;
+	background:#6b6b6b;
 	text-align:center;
 	line-height:19px;
 	text-transform:uppercase;
@@ -187,7 +187,7 @@ span{
 .jd-footer{
 	width:100%;
 	height:30px;
-	background:#212121;
+	background:#6b6b6b;
 	line-height:40px;
 	height:40px;
 	text-align:center;
@@ -212,7 +212,7 @@ span{
 	text-align:center;
 	font-size:.75rem;
 	color:#adadad;
-	background:#adadad
+	background:#6b6b6b
 }
 .jd-videoBox{
 	width:265px;
