@@ -100,7 +100,7 @@ span{
 .jd-txt{
 	width:140px;
 	height:36px;
-	background:#e5ff00;
+	background:#ffffff;
 	border-radius:3px;
 	text-align:center;
 	line-height:36px;
@@ -146,7 +146,7 @@ span{
 .jd-btn-nav:after{
 	width:100%;
 	height:2px;
-	background:#00ff3c;
+	background:#ffffff;
 	left:0;
 	bottom:0
 }
@@ -160,7 +160,7 @@ span{
 .jd-box{
 	width:110px;
 	height:130px;
-	background: #adadad;
+	background:#ffffff;
 	box-shadow:0 0 2px 1px rgba(0,0,0,.1);
 	padding:14px;
 	margin-bottom:20px;
@@ -175,7 +175,7 @@ span{
 .jd-box span{
 	width:82px;
 	height:19px;
-	background:#59ff57;
+	background:#ffffff;
 	text-align:center;
 	line-height:19px;
 	text-transform:uppercase;
@@ -212,7 +212,7 @@ span{
 	text-align:center;
 	font-size:.75rem;
 	color:#adadad;
-	background:#001400
+	background:#ffffff
 }
 .jd-videoBox{
 	width:265px;
