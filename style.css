@@ -28,7 +28,7 @@ span{
 	height:auto;
 	font-size:16px;
 	font-family:var(--font-1);
-	color:#00364f;
+	color:#22004f;
 	overflow-x:hidden
 }
 .jd-app{
@@ -100,11 +100,11 @@ span{
 .jd-txt{
 	width:140px;
 	height:36px;
-	background:#adadad;
+	background:#e5ff00;
 	border-radius:3px;
 	text-align:center;
 	line-height:36px;
-	color:#00364f;
+	color:#e5ff00;
 	margin-left:calc(50% - 70px)
 }
 .jd-bottom{
@@ -122,7 +122,7 @@ span{
 	height:110px;
 	border-radius:50%;
 	overflow:hidden;
-	box-shadow:0 0 0 5px #000a8f;
+	box-shadow:0 0 0 5px #e5ff00;
 	position:absolute;
 	left:5px;
 	top:-40px
@@ -146,7 +146,7 @@ span{
 .jd-btn-nav:after{
 	width:100%;
 	height:2px;
-	background:#adadad;
+	background:#00ff3c;
 	left:0;
 	bottom:0
 }
@@ -155,7 +155,7 @@ span{
 }
 .jd-btn-nav p{
 	font-size:.8rem;
-	color:#6b6b6b
+	color:#002f4a
 }
 .jd-box{
 	width:110px;
@@ -169,13 +169,13 @@ span{
 .jd-box img{
 	width:82px;
 	height:82px;
-	border:solid 1px #6b6b6b;
+	border:solid 1px #014a00;
 	margin:0
 }
 .jd-box span{
 	width:82px;
 	height:19px;
-	background:#6b6b6b;
+	background:#59ff57;
 	text-align:center;
 	line-height:19px;
 	text-transform:uppercase;
@@ -187,7 +187,7 @@ span{
 .jd-footer{
 	width:100%;
 	height:30px;
-	background:#6b6b6b;
+	background:#ffffff;
 	line-height:40px;
 	height:40px;
 	text-align:center;
@@ -212,7 +212,7 @@ span{
 	text-align:center;
 	font-size:.75rem;
 	color:#adadad;
-	background:#6b6b6b
+	background:#001400
 }
 .jd-videoBox{
 	width:265px;
