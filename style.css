@@ -1,5 +1,5 @@
 {
-	background:#00aeff;
+	background:#ffffff;
 	overflow-x:hidden
 }
 *{
@@ -28,11 +28,11 @@ span{
 	height:auto;
 	font-size:16px;
 	font-family:var(--font-1);
-	color:#22004f;
+	color:#FFF;
 	overflow-x:hidden
 }
 .jd-app{
-	border-top:solid 30px #ff0000
+	border-top:solid 30px #ffffff
 }
 .jd-container{
 	width:940px;
