@@ -155,12 +155,12 @@ span{
 }
 .jd-btn-nav p{
 	font-size:.8rem;
-	color:#002f4a
+	color:#00175c
 }
 .jd-box{
 	width:110px;
 	height:130px;
-	background:#4d4d4d;
+	background:#000000;
 	box-shadow:0 0 2px 1px rgba(0,0,0,.1);
 	padding:14px;
 	margin-bottom:20px;
